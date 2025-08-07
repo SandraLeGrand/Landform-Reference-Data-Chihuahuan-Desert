@@ -51,7 +51,18 @@ This dataset was compiled by combining published sources and geospatial analyst 
 
 * B = Landform designation was subjectively determined by an analyst to be a continuation of a neighboring landform point identified in a published source. 
 
-* C = Landform designation was subjectively determined by an analyst. 
+* C = Landform designation was subjectively determined by an analyst.
+
+## Contents of Zip File
+
+* Landform_Reference_Data-Chihuahuan_Desert.cpg
+* Landform_Reference_Data-Chihuahuan_Desert.dbf
+* Landform_Reference_Data-Chihuahuan_Desert.prj
+* Landform_Reference_Data-Chihuahuan_Desert.sbn
+* Landform_Reference_Data-Chihuahuan_Desert.sbx
+* Landform_Reference_Data-Chihuahuan_Desert.shp
+* Landform_Reference_Data-Chihuahuan_Desert.shp.xml
+* Landform_Reference_Data-Chihuahuan_Desert.shx 
 
 ## Data Source References
 * Börker, J., J. Hartmann, T. Amann, and G. Romero-Mujalli. 2018. "Terrestrial Sediments of the Earth: Development of a Global Unconsolidated Sediments Map Database (GUM)." Geochemistry, Geophysics, Geosystems 19, 997–1024. https://doi.org/10.1002/2017GC007273.
@@ -65,11 +76,4 @@ This dataset was compiled by combining published sources and geospatial analyst 
 * NCSS (National Cooperative Soil Survey). 2020. National Cooperative Soil Survey Characterization Database. Accessed 1 July 2021. http://ncsslabdatamart.sc.egov.usda.gov. 
 * Stoeser, D. B., G. N. Green, L. C. Morath, et al. 2005. Preliminary Integrated Geologic Map Databases for the United States: Central States: Montana, Wyoming, Colorado, New Mexico, North Dakota, South Dakota, Nebraska, Kansas, Oklahoma, Texas, Iowa, Missouri, Arkansas, and Louisiana. Report 2005–1351. Version 1.2, December 2007. Open-File Report. USGS Publications Warehouse. https://doi.org/10.3133/ofr20051351.
 * Taylor, J., E. Kachergis, G. R. Toevs, et al. 2014. AIM-Monitoring: A component of the BLM Assessment, Inventory, and Monitoring Strategy. Technical Note 445. US Department of the Interior, Bureau of Land Management, National Operations Center. Accessed 16 April 2025. https://www.blm.gov/sites/default/files/documents/files/Library_BLMTechnicalNote445.pdf.
-* USDA (US Department of Agriculture). n.d. National Soil Information System (NASIS). Accessed 1 July 2021. https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/tools/?cid=nrcs142p2_053552. 
-
- 
-* Baddock, M. C., Gill, T. E., Bullard, J. E., Acosta, M. D., and Rivera Rivera, N. I.: Geomorphology of the Chihuahuan Desert based on potential dust emissions, J. Maps, 7, 249–259, https://doi.org/10.4113/jom.2011.1178, 2011.  
-* Lee, J. A., Gill, T. E., Mulligan, K. R., Dominguez Acosta, M., and Perez, A. E.: Land use/land cover and point sources of the 15 December 2003 dust storm in southwestern North America, Geomorphology, 105, 18–27, https://doi.org/10.1016/j.geomorph.2007.12.016, 2009.
-  
-
-
+* USDA (US Department of Agriculture). n.d. National Soil Information System (NASIS). Accessed 1 July 2021. https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/tools/?cid=nrcs142p2_053552.
