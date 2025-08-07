@@ -64,7 +64,7 @@ This dataset was compiled by combining published sources and geospatial analyst 
 * Landform_Reference_Data-Chihuahuan_Desert.shp.xml
 * Landform_Reference_Data-Chihuahuan_Desert.shx 
 
-## Data Source References
+## Final Dataset References
 * Börker, J., J. Hartmann, T. Amann, and G. Romero-Mujalli. 2018. "Terrestrial Sediments of the Earth: Development of a Global Unconsolidated Sediments Map Database (GUM)." Geochemistry, Geophysics, Geosystems 19, 997–1024. https://doi.org/10.1002/2017GC007273.
 * Bullard, J. E., S. P. Harrison, M. C. Baddock, et al. 2011. “Preferential Dust Sources: A Geomorphological Classification Designed for Use in Global Dust-Cycle Models.” Journal of Geophysical Research 116(F4): F04034. https://doi.org/10.1029/2011JF002061.
 * Cook, S. N., M. F. Bigl, S. L. LeGrand, N. Webb, G. Tyree, and R. Treminio. 2022. Landform Identification in the Chihuahuan Desert for Dust Source Characterization Applications: Developing a Landform Reference Data Set. ERDC TR-22-20. US Army Engineer Research and Development Center. http://dx.doi.org/10.21079/11681/45644.
