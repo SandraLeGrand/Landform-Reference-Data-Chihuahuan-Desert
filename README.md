@@ -12,6 +12,7 @@ This repository contains a landform reference dataset for the Chihuahuan Desert 
 * Sandra L. LeGrand (ERDC)
 * Brendan A. West (ERDC)
 * Chelsea L. Dandridge (ERDC)
+* Jorge A. Ochoa Gonzalez (ERDC)
 
 ## Background
 This dataset was compiled by combining published sources and geospatial analyst identification. Landform labels represent the dominant landform type within a 500m resolution grid cell.
@@ -62,7 +63,15 @@ This dataset was compiled by combining published sources and geospatial analyst 
 * Landform_Reference_Data-Chihuahuan_Desert.sbx
 * Landform_Reference_Data-Chihuahuan_Desert.shp
 * Landform_Reference_Data-Chihuahuan_Desert.shp.xml
-* Landform_Reference_Data-Chihuahuan_Desert.shx 
+* Landform_Reference_Data-Chihuahuan_Desert.shx
+
+## How to Cite
+
+### Dataset
+Hodgdon, T. S.,  M. F. Bigl, S. L. LeGrand, J. A. Ochoa Gonzalez, and C. L. Dandridge. 2025. Landform-Reference-Data-Chihuahuan-Desert: Preliminary Release (v0.0), Zenodo [dataset].
+
+### Concept & Methodology
+LeGrand, S. L., T. S. Hodgdon, M. F. Bigl, B. A. West, J. A. Ochoa Gonzalez, and C. L. Dandridge. 2025. Expansion of a Landform Reference Dataset in the Chihuahuan Desert for Dust Source Characterization Applications. ERDC TR-22755. US Army Engineer Research and Development Center.
 
 ## Final Dataset References
 * Börker, J., J. Hartmann, T. Amann, and G. Romero-Mujalli. 2018. "Terrestrial Sediments of the Earth: Development of a Global Unconsolidated Sediments Map Database (GUM)." Geochemistry, Geophysics, Geosystems 19, 997–1024. https://doi.org/10.1002/2017GC007273.
