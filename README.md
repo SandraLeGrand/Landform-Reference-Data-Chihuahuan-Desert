@@ -1,8 +1,5 @@
 # Landform Reference Dataset: Chihuahuan Desert Region
 
-## Created 
-Winter 2025
-
 ## Purpose
 This repository contains a landform reference dataset for the Chihuahuan Desert region compiled by researchers from the U.S. Army Engineer Research and Development Center (ERDC).
 
