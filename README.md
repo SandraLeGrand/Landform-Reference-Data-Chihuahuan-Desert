@@ -1,5 +1,7 @@
 # Landform Reference Dataset: Chihuahuan Desert Region
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16800313.svg)](https://doi.org/10.5281/zenodo.16800313)
+
 ## Purpose
 This repository contains a landform reference dataset for the Chihuahuan Desert region compiled by researchers from the U.S. Army Engineer Research and Development Center (ERDC).
 
@@ -65,7 +67,7 @@ This dataset was compiled by combining published sources and geospatial analyst 
 ## How to Cite
 
 ### Dataset
-Hodgdon, T. S.,  M. F. Bigl, S. L. LeGrand, J. A. Ochoa Gonzalez, and C. L. Dandridge. 2025. Landform Reference Dataset: Chihuahuan Desert Region (v1.0), Zenodo [dataset].
+Hodgdon, T. S.,  M. F. Bigl, S. L. LeGrand, J. A. Ochoa Gonzalez, and C. L. Dandridge. 2025. Landform Reference Dataset: Chihuahuan Desert Region (v1.0), Zenodo [dataset]. https://doi.org/10.5281/zenodo.16800313
 
 ### Concept & Methodology
 LeGrand, S. L., T. S. Hodgdon, M. F. Bigl, B. A. West, J. A. Ochoa Gonzalez, and C. L. Dandridge. 2025. Expansion of a Landform Reference Dataset in the Chihuahuan Desert for Dust Source Characterization Applications. ERDC TR-22755. US Army Engineer Research and Development Center.
