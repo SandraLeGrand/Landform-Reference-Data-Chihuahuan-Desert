@@ -16,7 +16,7 @@ This repository contains a landform reference dataset for the Chihuahuan Desert 
 * Jorge A. Ochoa Gonzalez (ERDC)
 
 ## Background
-This dataset was compiled by combining published sources and geospatial analyst identification. Landform labels represent the dominant landform type within a 500m resolution grid cell.
+This dataset was compiled by combining landform labels from published sources and labels generated through subjective interpretation of basemap imagery. Landform labels represent the dominant landform type within a 500m resolution grid cell.
 
 ## Field Descriptions
 **Point_ID**: A unique identification string associated with the point record.
